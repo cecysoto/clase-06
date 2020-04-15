@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Girassol&family=Long+Cang&display=swap');
+
 
 html, body {
     margin: 0;
@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-    font-family: 'PT Serif', serif;
+    font-family: 'Long Cang', cursive;
     background-color: lightpink;
 }
 
