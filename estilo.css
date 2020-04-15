@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Girassol&family=Long+Cang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Girassol&display=swap');
 
 
 html, body {
@@ -33,7 +33,7 @@ h1, p {
 h1{
     font-family: 'Girassol',
     color: white;
-    font-size: 60px;
+    font-size: 40px;
     background-color: black;
           text-shadow: 2px 2px pink;
           position:absolute;
@@ -44,9 +44,9 @@ h1{
         }
 
 p {
-    font-family: 'Long Cang';
-    font-size: 40px;
+    font-family: 'Covered By Your Grace';
+    font-size: 20px;
     position:absolute;
-          right: 40%;
+          left: 30%;
           top: 70%;
 }
